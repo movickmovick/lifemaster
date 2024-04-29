@@ -1,6 +1,6 @@
 WITH-ELECTROMAGNETIC-MOMENT:
 
-001 One TV
+001 One TV SN 03LAUAUABS03894 model-name D39hn-D0 version 1007_5653
 002 One sliding glass door
 003 One space heater, Dreo, dr-hsh-004
 004 One plant
