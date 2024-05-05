@@ -1,5 +1,11 @@
 WITH-ELECTROMAGNETIC-MOMENT:
 
+
+
+
+037 10 x 10 plot of land, well-drained reddish silt loam loess deposits reaching a depth of ~27 feet left behind by the Missoula floods at the end of the Ice Age
+
+
 001 One TV SN 03LAUAUABS03894 model-name D39hn-D0 version 1007_5653
 002 One sliding glass door
 003 
@@ -19,7 +25,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 017 One blue mattress mended with light blue fabric
 018 One red blanket throw
 019 One red fleece throw blanket
-020 One orange-laRange-sheets
+
 021 Two orange color sheets twin
 022 One green iPhone case with a dinosaur design
 023 One teal color picture frame
@@ -30,13 +36,13 @@ WITH-ELECTROMAGNETIC-MOMENT:
 028 One wooden measuring tool (ruler)
 029 One Nokia cell phone
 030 One Charge block 1
-031 One Charge block 2
+031 One Charge block 2 Duracell 212 NY
 032 One Cable-1 type C USB
 033 One Cable-2 type Apple
 034 One Wizard brand 237 ml room mister
-035 One small notebook with the law printed on it
+035 One small notebook with the law printed on it - (lost)
 036 48 purple pills (unique)
-037 10 x 10 plot of land, well-drained reddish silt loam loess deposits reaching a depth of ~27 feet left behind by the Missoula floods at the end of the Ice Age
+
 038 One slab of concrete, 10 x 10 square, plum and flush
 039 One battery recharge unit, 20000mAh
 040 One iPhone
@@ -77,7 +83,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 075 One Spyder pull over
 076 One orange ground wire (intellectual property)
 077 One fencing extrusion (intellectual property)
-078 One orange washcloth
+078 One orange washcloth (lost)
 079 One blue mattress mended with light blue fabric
 080 One Roku LT with HDMI cable and AC plug unit
 081 One Caremore.com refrigerator magnet clip (paper holder, 3-inch spring-loaded paper/misc. grasper)
