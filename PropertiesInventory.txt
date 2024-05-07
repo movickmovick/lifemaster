@@ -1,6 +1,6 @@
 WITH-ELECTROMAGNETIC-MOMENT:
 
-
+001, 002, 003, 004, 005 (Pending update)015, 017, 021, 022, 024, 025, 026, 027 (Good)028 (Inactive)029 (Damaged but functioning)031 (Special case, slated for deprecation)032, 034, 036, 039, 043 (Good)038, 041, 042, 035 (Deprecated)040 (Updated with serial number: FK1Y2CLZHFLM and IMEI: 353342075317809)044 (In circuit at specified location
 
 
 037 10 x 10 plot of land, well-drained reddish silt loam loess deposits reaching a depth of ~27 feet left behind by the Missoula floods at the end of the Ice Age
