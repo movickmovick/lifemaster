@@ -75,7 +75,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 067 One ear-muffs-protection
 068 One sports sandals
 069 One metal plate
-070 One REI Nalgene bottle
+070 One REI Nalgene bottle (*same as 115)
 071 One chicken-slogger-shoes
 072 One green hat
 073 One green pants
@@ -93,7 +93,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 085 One modified porch sign, with 'PORCH' where the 'P' and 'R' are blocked out, and fake green leaves hot glued on the 'O', measuring 2.4ft by 9 inches
 (NULL) //One serial H34GREES1049 - A2190EMC 3326 (PHYNIX)
 087 One Kilaeua shirt
-088 One metal plate
+088 three metal plates
 089 One wind chimes
 090 One ear muffs
 091 One set of hummingbird feeders
@@ -105,7 +105,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 097 One red blanket throw
 098 One blue mattress mended with light blue fabric
 099 One hammock
-100 One porch sign
+100 One porch sign says porch
 101 One pencil sharpener
 102 One pencil
 103 One picture frame
@@ -120,6 +120,7 @@ WITH-ELECTROMAGNETIC-MOMENT:
 112 One Samsung phone
 113 One iPhone
 114 One charger
-115 One water bottle
-
+115 One nalgene water bottle 32 oz, DMITRI
+116 ONE V. SATTUI WINERY BOTTLE, aluminum, 25 fl oz capacity
+117 3 count pieces of particle board 8x15 with dark-wood finish in use as stepping-stones-ground(s)
 
