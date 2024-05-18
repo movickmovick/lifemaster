@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Declaration</title>
+<title>OFFICIAL HEAR YE HEAR YE</title>
 </head>
 <body>
-<h1>Declaration</h1>
+<h1>OFFICIAL HEAR YE HEAR YE</h1>
 
 <p>I'm saying that JUSTIN-DAVID:MOVICK is found dead in the law of Christiadom-spiritual-law in a place known as the land of the dead of the Islamic Umma. Now, JOSTINE COLIN-MOVICK is the one who officially gets the rights and money there. This happens because Allah is kind and compassionate.</p>
 
@@ -29,6 +29,24 @@
 <p>I live at 18810 NW Shadow Lane, Portland, Oregon. It's a good place.</p>
 
 <p>This is important.</p>
+
+  <!-- Guest Book Widget -->
+<div id="guestbook">
+  <h2>Guest Book</h2>
+  <textarea id="message" rows="4" cols="50"></textarea><br>
+  <button onclick="addMessage()">Add Message</button>
+  <ul id="messages"></ul>
+</div>
+
+<script>
+function addMessage() {
+  var message = document.getElementById("message").value;
+  var list = document.getElementById("messages");
+  var entry = document.createElement("li");
+  entry.appendChild(document.createTextNode(message));
+  list.appendChild(entry);
+}
+</script>
 
 </body>
 </html>
